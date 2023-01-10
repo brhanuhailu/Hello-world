@@ -8,7 +8,7 @@ Therefore, this project stated about the how to use the necessary tools and pack
 * workfolw
 # Linter
 * Linter is a a package that used to check code process that and looks for errors in the source code, at end flags potential bugs.
-* [Stylelint](https://stylelint.io/)
+Resource for [Stylelint](https://stylelint.io/) and [10 CSS and JavaScript Linting Tools for Code Optimization](https://www.hongkiat.com/blog/code-optimization-css-js-linting-tools/)
 # Workflow
 * workflow describes the general steps for developing the project.
 # Prerequisites

@@ -63,7 +63,17 @@ Creating branch is very mandatory for collabrating remote software developers\*,
 In order to run this project you need:
 
 - [Vs-code](https://code.visualstudio.com/download) installed and open the editor. To have detail information, read the [installation instructions](https://code.visualstudio.com/).
+### Install
 
+Install the following package:
+Linter
+
+```
+ npm init -y
+ npm install --save-dev hint@7.x
+ npx hint .
+ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
 ### Setup
 
 Clone this repository to your desired folder:
@@ -73,16 +83,6 @@ Clone this repository to your desired folder:
   cd Hello-world
 ```
 
-### Install
-
-Install thr project dependencies with:
-
-```
- npm init -y
- npm install --save-dev hint@7.x
- npx hint .
- npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-```
 
 ### Run tests
 

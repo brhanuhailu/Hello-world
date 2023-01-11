@@ -27,6 +27,9 @@
 Creating branch is very mandatory for collabrating remote software developers\*, and This 'Hello Microverse' project is the first day project for Microverse students . The **\*Hello Microverse**\_ Therefore, this project stated about the how to use the necessary tools and packges in project developemt. It is a welcome home page that inludes the following point
 
 - It povide the Hellow Microverse welcoming.
+To do this project there must be followed two main step
+- Configure linter step by step for error handling method. For more information read this link [HTML & CSS3 Course linter](https://github.com/microverseinc/linters-config/tree/master/html-css).
+- The second one flow the workflow. For detail information read this link [workflows](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,8 +68,8 @@ In order to run this project you need:
 - [Vs-code](https://code.visualstudio.com/download) installed and open the editor. To have detail information, read the [installation instructions](https://code.visualstudio.com/).
 ### Install
 
-Install the following package:
-Linter
+Install the following Linter packages:
+
 
 ```
  npm init -y
@@ -77,6 +80,7 @@ Linter
 ### Setup
 
 Clone this repository to your desired folder:
+Simply clone the repositroy to your desired folder and change directory to the cloned file, then open using vs-code editor.
 
 ```
   https://github.com/brhanuhailu/Hello-world.git

@@ -103,7 +103,7 @@ clone the repository and open on your brower.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author 1**
+👤 **Brhanu Hailu**
 
 - GitHub: [@brhanuhailu](https://github.com/brhanuhailu)
 - Twitter: [TigrayCountry](https://twitter.com/@TigrayGenocide)

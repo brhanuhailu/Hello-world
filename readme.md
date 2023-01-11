@@ -18,6 +18,7 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgements](#acknowledgements)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
@@ -134,6 +135,14 @@ Feel free to check the [issues page](https://github.com/brhanuhailu/Hello-world/
 ## ⭐️ Show your support <a name="support"></a>
 
 Every reaction has it's own value for the developer.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> This to give cridit for those who support me to do this project.
+
+I would like to thank Microverse and for the code reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

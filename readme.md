@@ -1,100 +1,43 @@
-
+![](https://img.shields.io/badge/Microverse-blueviolet)
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it.
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />  -->
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 OOP School Library ](#-Hello Microverse-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage ](#usage-)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-the-project"></a>
 
->  Creating branch is very mandatory for collabrating remote software developers. 
-This 'Hello Microverse' project is the first day project for Microverse students
-Therefore, this project stated about the how to use the necessary tools and packges in project developemt.
+Creating branch is very mandatory for collabrating remote software developers\*, and This 'Hello Microverse' project is the first day project for Microverse students . The **\*Hello Microverse**\_ Therefore, this project stated about the how to use the necessary tools and packges in project developemt. It is a welcome home page that inludes the following point
 
-**[Hello Microverse]** is an Initial project for Miroverse students.
+- It povide the Hellow Microverse welcoming.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> The main tools and packges that should be included in this project and in the next are:
-* Linter 
-* workfolw
-
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
+  <ul> 
+    <li><a href="https://github.com/microverseinc/linters-config/tree/master/html-css">Linters</a></li>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -102,21 +45,13 @@ Therefore, this project stated about the how to use the necessary tools and pack
 
 ### Key Features <a name="key-features"></a>
 
-> 
-
-- **[add first day home page]**
-- **[Integrated Linter Configuration]**
-- **[Included gitignore file]**
+- Display welcoming page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> N/A.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,83 +59,44 @@ Therefore, this project stated about the how to use the necessary tools and pack
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- [Vs-code](https://code.visualstudio.com/download) installed and open the editor. To have detail information, read the [installation instructions](https://code.visualstudio.com/).
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
 ```
---->
+  https://github.com/brhanuhailu/Hello-world.git
+  cd Hello-world
+```
 
 ### Install
 
-Install this project with:
+Install thr project dependencies with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
 ```
---->
+ N/A
+```
 
-### Usage
+### Usage <a name="usage"></a>
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
 ```
---->
+
+```
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
 ```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
 
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,19 +104,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Author 1**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@brhanuhailu](https://github.com/brhanuhailu)
+- Twitter: [TigrayCountry](https://twitter.com/@TigrayGenocide)
+- LinkedIn: [Brhanu Hailu](https://www.linkedin.com/in/brhanu-hailu-85578a246/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,11 +116,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- Add more features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,7 +126,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/brhanuhailu/Hello-world/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,35 +134,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank you to microverse code reviewer. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+Every reaction has it's own value for the developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -288,19 +144,4 @@ I would like to thank you to microverse code reviewer.
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-* Linter is a a package that used to check code process that and looks for errors in the source code, at end flags potential bugs.
-Resource for [Stylelint](https://stylelint.io/) and [10 CSS and JavaScript Linting Tools for Code Optimization](https://www.hongkiat.com/blog/code-optimization-css-js-linting-tools/)
-## Workflow
-* workflow describes the general steps for developing the project. according tho Microverse moudle the main branch should always be stable code that actually works and can be safely used. Any changes required in the application should be introduced in feature branches and approved before merging them to the main branch.
-[workflows](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md)
-# Prerequisites
-## In order to run this project you need:
-* Code editor such as vs code, subline, notpade++, dreamwiver or othe modern code editor are needed. 
-
-
-

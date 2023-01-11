@@ -13,7 +13,6 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
-    - [Usage ](#usage-)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
@@ -85,21 +84,11 @@ Install thr project dependencies with:
  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 ```
 
-### Usage <a name="usage"></a>
-
-To run the project, execute the following command:
-
-```
-
-```
-
 ### Run tests
 
 To run tests, run the following command:
 
-```
-
-```
+clone the repository and open on your brower.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

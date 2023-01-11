@@ -67,7 +67,7 @@ After you're finished please remove all the comments and instructions!
 This 'Hello Microverse' project is the first day project for Microverse students
 Therefore, this project stated about the how to use the necessary tools and packges in project developemt.
 
-**[your_project__name]** is a...
+**[Hello Microverse]** is an Initial project for Miroverse students.
 
 ## 🛠 Built With <a name="built-with"></a>
 

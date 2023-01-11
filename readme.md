@@ -142,7 +142,7 @@ Every reaction has it's own value for the developer.
 
 > This to give cridit for those who support me to do this project.
 
-I would like to thank Microverse and for the code reviewers
+I would like to thank Microverse Organization and for the code reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

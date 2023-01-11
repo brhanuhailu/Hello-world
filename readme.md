@@ -68,6 +68,7 @@ This project had been followed:
 In order to run this project you need:
 
 - [Vs-code](https://code.visualstudio.com/download) installed and open the editor. To have detail information, read the [installation instructions](https://code.visualstudio.com/).
+- Use web browser such as Google Chrome  to run the project
 ### Install
 
 Install the following Linter packages:

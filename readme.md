@@ -24,10 +24,10 @@
 
 # 📖 Hello Microverse <a name="about-the-project"></a>
 
-Creating branch is very mandatory for collabrating remote software developers\*, and This 'Hello Microverse' project is the first day project for Microverse students . The **\*Hello Microverse**\_ Therefore, this project stated about the how to use the necessary tools and packges in project developemt. It is a welcome home page that inludes the following point
+Creating branch is very mandatory for collabrating remote software developers\*, and This 'Hello Microverse' project is the first day project for Microverse students . The **\*Hello Microverse**\_  is Therefore, stated about the how to use the necessary tools and packges in project developemt. It is a welcome home page that inludes the following point
 
-- It povide the Hellow Microverse welcoming.
-To do this project there must be followed two main step
+- It povide the Hello Microverse welcoming.
+This project had been followed:
 - Configure linter step by step for error handling method. For more information read this link [HTML & CSS3 Course linter](https://github.com/microverseinc/linters-config/tree/master/html-css).
 - The second one flow the workflow. For detail information read this link [workflows](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md)
 

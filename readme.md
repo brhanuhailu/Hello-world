@@ -1,6 +1,6 @@
 
 # [ 📗 Content of the Project ]
-- [ 📖 Hello Microverse project ] (# hellomicrover)
+- [ 📖 Hello Microverse project ] (#hellomicrover)
 * [🛠 Built With]
   * [Tech Stack]
   * [Key Features]

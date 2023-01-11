@@ -39,6 +39,8 @@ This project had been followed:
   <summary>Client</summary>
   <ul> 
     <li><a href="https://github.com/microverseinc/linters-config/tree/master/html-css">Linters</a></li>
+    <li><a href="https://github.com/brhanuhailu/Hello-world/blob/main/index.html">HTML</a></li>
+    <li><a href="https://github.com/brhanuhailu/Hello-world/blob/main/style.css">CSS</a></li>
 
   </ul>
 </details>
